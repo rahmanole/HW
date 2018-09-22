@@ -1,0 +1,50 @@
+
+.mainDiv{
+    width:60%;
+    height:800px;
+    margin:0 auto;
+    background:cyan;
+}
+.mainCol1{
+    width:20%;
+    height:800px;
+    background:#8ECF8C;
+    float: left;
+}
+.mainCol2{
+    width:80%;
+    height:800px;
+    background:orchid;
+    float: left;
+}
+
+.row1{
+    width:100%;
+    height:150px;
+    background:lightblue;
+}
+
+.row2{
+    width:100%;
+    height:550px;
+    background:cyan;
+}
+
+.row3{
+    width:100%;
+    height:100px;
+    background:lightblue;
+}
+.col1{
+    width:80%;
+    height:550px;
+    background:#ECE9E9;
+    float:left;
+}
+
+.col2{
+    width:20%;
+    height:550px;
+    background:#8ECF8C;
+    float:left;
+}
